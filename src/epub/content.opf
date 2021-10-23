@@ -39,7 +39,11 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Shorts</meta>
+		<meta id="collection-1" property="belongs-to-collection">A. J. Raffles</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">2</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
@@ -54,7 +58,7 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-w-hornung_the-black-mask</meta>
 		<dc:creator id="author">E. W. Hornung</dc:creator>
 		<meta property="file-as" refines="#author">Hornung, E. W.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Ernest William Hornung</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/E._W._Hornung</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50030817</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -63,12 +67,15 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">Judith Boss.  HTML version by Al Haines</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber">Judith Boss</dc:contributor>
+		<meta property="file-as" refines="#transcriber">Boss, Judith</meta>
+		<meta property="role" refines="#transcriber" scheme="marc:relators">trc</meta>
+		<dc:contributor id="markup-editor">Al Haines</dc:contributor>
+		<meta property="file-as" refines="#markup-editor">Haines, Al</meta>
+		<meta property="role" refines="#markup-editor" scheme="marc:relators">mrk</meta>
+		<dc:contributor id="producer-1">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.robinwhittleton.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
