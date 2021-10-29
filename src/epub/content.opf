@@ -44,14 +44,15 @@
 		<meta id="collection-1" property="belongs-to-collection">A. J. Raffles</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The thieving duo return in this second collection of A. J. Raffles short stories.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;After the events of &lt;a href="https://standardebooks.org/ebooks/e-w-hornung/the-amateur-cracksman"&gt;&lt;i&gt;The Amateur Cracksman&lt;/i&gt;&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/a-j-raffles"&gt;&lt;abbr&gt;A. J.&lt;/abbr&gt; Raffles&lt;/a&gt; is missing, presumed dead, and “Bunny” Manders is destitute but free after a stretch in prison for his crimes. So when a mysterious telegraph arrives, suggesting the possibility of a lucrative position, Bunny has little option but to attend the given address.&lt;/p&gt;
+			&lt;p&gt;Raffles was a commercial success for &lt;a href="https://standardebooks.org/ebooks/e-w-hornung"&gt;&lt;abbr&gt;E. W.&lt;/abbr&gt; Hornung&lt;/a&gt;, garnering critical praise but also warnings about the glorification of crime. &lt;i&gt;The Black Mask&lt;/i&gt;, published two years after his first collection of Raffles stories, takes a markedly more downcast tone, with the high-life escapades of the earlier stories curtailed by Raffles’ purported death.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/707</dc:source>
 		<dc:source>https://archive.org/details/rafflesfurthera00horngoog</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">Went with the original British title “The Black Mask” instead of the US title “Raffles: Further Adventures of the Amateur Cracksman”: we have our collection metadata, and it reads better.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Black_Mask</meta>
