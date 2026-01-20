@@ -53,7 +53,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/707</dc:source>
 		<dc:source>https://archive.org/details/rafflesfurthera00horngoog</dc:source>
 		<meta property="se:production-notes">Went with the original British title “The Black Mask” instead of the US title “Raffles: Further Adventures of the Amateur Cracksman”: we have our collection metadata, and it reads better. The short stories would not make as much sense out of order so they are marked as chapters semantically, even though they could also be serialized as individual short stories.</meta>
-		<meta property="se:word-count">55944</meta>
+		<meta property="se:word-count">55030</meta>
 		<meta property="se:reading-ease.flesch">79.4</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Black_Mask</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-w-hornung_the-black-mask</meta>
