@@ -1,0 +1,1 @@
+Went with the original British title “The Black Mask” instead of the US title “Raffles: Further Adventures of the Amateur Cracksman”: we have our collection metadata, and it reads better. The short stories would not make as much sense out of order so they are marked as chapters semantically, even though they could also be serialized as individual short stories.
